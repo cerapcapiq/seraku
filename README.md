@@ -28,7 +28,8 @@ player 2 board
     a) if (for example) player 1 has number 3 at b, (like board below), and then player 2 put it any place opposite to it (whether k, n, q), player 1 will
        lose the number
                                            
- player 1 board                                                                   player 1 board
+                                           
+player 1 board                                                                   player 1 board
  a | 3 | 2                                                                        a |   | 2
 ---|---|---                                                                      ---|---|---
  4 | e | f                                                                        4 | e | f       
